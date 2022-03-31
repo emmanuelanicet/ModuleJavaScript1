@@ -1,4 +1,4 @@
 # Introduction 
 
-Bases du developpement javasccript. 
+Bases du langage javasccript. 
 
